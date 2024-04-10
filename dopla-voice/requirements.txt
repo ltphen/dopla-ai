@@ -1,0 +1,5 @@
+flask
+elevenlabs
+openai
+flask_cors
+TTS
